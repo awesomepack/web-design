@@ -3,7 +3,14 @@
     max-height: 100%;
 }
 
+
 .test{
     background-color: aqua;
     color: brown;
+}
+
+
+.fit{
+    max-height: 100%;
+    max-width: 100%;
 }
